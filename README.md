@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @Franc
-- 👀 I’m interested in ...
-- 🌱 I’m currently trying to be Front End Developer ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Fran2019/Fran2019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Front End Development, APIs, Effective and Concise communication, Information Architecture, Writing, and long-life learning.
+- 🌱 I’m currently trying to be Front End Developer.
+- 💞️ I’m looking to collaborate on things that help to develop human life.
