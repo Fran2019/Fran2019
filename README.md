@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Franc
-- 👀 I’m interested in Front End Development, APIs, Effective and Concise communication, Information Architecture, Writing, and long-life learning.
-- 🌱 I’m currently trying to be Front End Developer.
-- 💞️ I’m looking to collaborate on things that help to develop human life.
+- I’m @Franc
+- I’m interested in Front End Development, APIs, Effective and Concise communication, Information Architecture, Writing, and long-life learning.
+- Trying to be decent Developer.
+- I’m looking to collaborate on things that help to develop human life.
