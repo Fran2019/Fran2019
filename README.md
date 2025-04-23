@@ -1,5 +1,6 @@
 ## Junior developer growing up 🔭🌱
 ⚡⚡⚡ Currently with Alternating Current ⚡⚡⚡
 
-   ![Screenshot 2025-01-24 180721](https://github.com/user-attachments/assets/364879ce-9b6a-45fe-bf2f-d31a434cee24) 
+https://github.com/user-attachments/assets/55d75c79-07c3-4043-80b6-1a99d18fc206
+
 
