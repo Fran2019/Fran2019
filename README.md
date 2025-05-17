@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">✨ 🎯 Goals: to achieve a decent user experience communication<br>🎲Hobbies: I like creative writing & music of many kinds</p>
+<p align="left">🎯 Goals: to achieve a decent user experience communication<br>🎲Hobbies: I like creative writing & music of many kinds</p>
 
 ###
 
