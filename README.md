@@ -1,15 +1,10 @@
 ## Junior developer growing up 🔭🌱
 
-<h2 align="left">About</h2>
-
-
-###
-
 <p align="left">🎯 Goals: to achieve a decent user experience communication<br>🎲Hobbies: I like creative writing & music of many kinds</p>
 
 ###
 
-<h2 align="left">I try:</h2>
+<h3 align="left">I try:</h3>
 
 ###
 
