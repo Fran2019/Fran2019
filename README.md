@@ -1,7 +1,6 @@
 ## Junior developer growing up 🔭🌱
 
 <h2 align="left">About</h2>
-![Copia de Evento de Facebook Foto de Portada 50 Cumpleaños](https://github.com/user-attachments/assets/3edea41b-c839-49e3-992b-986aec0933e6)
 
 
 ###
